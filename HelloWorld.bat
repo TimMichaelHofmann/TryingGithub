@@ -1,3 +1,3 @@
 @echo off
-echo Hello World!
+echo Hello World! ich erstelle einen Konflikt für source Tree
 pause
